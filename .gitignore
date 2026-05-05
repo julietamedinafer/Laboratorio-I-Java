@@ -1,0 +1,61 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# Archivos compilados de Java
+*.class
+
+# Archivos de empaquetado
+*.jar
+*.war
+*.ear
+
+# Carpeta de salida de compilación (según tu imagen veo 'salida/ producción/')
+out/
+production/
+bin/
+build/
+target/
+
+# Configuración de IntelliJ IDEA (archivos como el .iml que se ve en tu captura)
+*.iml
+.idea/
+out/
+
+# Archivos de configuración de Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.classpath
+.project
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
